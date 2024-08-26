@@ -1,0 +1,2 @@
+This is a task after the end of the course, in order to implement the self-evaluation process of each student. We thus facilitate our students in consolidating their knowledge and there is the possibility to check in a different way if they have mastered the teaching objectives.
+We could of course ask our students to create a crossword by drawing information from each teaching unit and give them to their classmates to complete. It is a particularly creative process, which helps to acquire knowledge, without spending a lot of time and effort.
